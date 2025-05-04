@@ -9,7 +9,7 @@
 // by Cong Ma, 2016
 // 
 
-#include "Hungarian.h"
+#include "Hungarian.hpp"
 
 
 HungarianAlgorithm::HungarianAlgorithm(){}

@@ -28,8 +28,8 @@
 #include <io.h>    // to check file existence using POSIX function access(). On Linux include <unistd.h>.
 #include <set>
 
-#include "Hungarian.h"
-#include "KalmanTracker.h"
+#include "Hungarian.hpp"
+#include "KalmanTracker.hpp"
 
 #include "opencv2/video/tracking.hpp"
 #include "opencv2/highgui/highgui.hpp"
